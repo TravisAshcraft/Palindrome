@@ -1,3 +1,11 @@
+/*************************
+ * Author: Travis Ashcraft
+ *
+ * Palindrome
+ *
+ * TravisAshcraft.github.io
+ */
+
 package com.company;
 
 import java.util.Scanner;
