@@ -5,13 +5,10 @@
  *
  * TravisAshcraft.github.io
  */
-
 package com.company;
-
 import java.util.Scanner;
 
 public class Palindrome {
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -25,9 +22,7 @@ public class Palindrome {
         else{
             System.out.println(s + " is not a palindrome");
         }
-
     }
-
     public static boolean isPalindromic(String pString){
         //Rule 1
         //This is the base case when the length of pString is less than or equal to 1.
@@ -51,5 +46,4 @@ public class Palindrome {
             }
         }
     }
-
 }
